@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "903117738068",
+    "project_id": "miantivirus-433ba",
+    "storage_bucket": "miantivirus-433ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903117738068:android:109f3d0d0d7f9d4accddc1",
+        "android_client_info": {
+          "package_name": "com.smiui.antivirus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903117738068-jau7nstn2cr276hst8u4h8gm1129lj70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZnzRzMmXj-dzUu81vKS9i5IP1dITTJq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903117738068-jau7nstn2cr276hst8u4h8gm1129lj70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
